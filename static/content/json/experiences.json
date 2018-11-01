@@ -1,0 +1,40 @@
+[
+  {
+    "role": "Research Assistant",
+    "title": "Early research on Deep Depth Colorization",
+    "location": "Sapienza University of Rome, Italy",
+    "date": "November 2016 — March 2017",
+    "desc": "I was one of the researchers of the primary version of Deep Depth Colorization project, where we proposed a novel approach of colorizing the depth data using a deep neural network architecture. The early paper of this work was submitted to the International Conference on Intelligent Robots and Systems (IROS), and it is archived at Computing Research Repository (CoRR).",
+    "thumbnail": "/static/media/logos/sapienza.png"
+  },
+  {
+    "role": "Research Collaborator",
+    "title": "VANDAL’s dataset preparation",
+    "location": "Sapienza University of Rome, Italy",
+    "date": "February 2016 — April 2016",
+    "desc": "I assisted in the preparation of VANDAL’s dataset. This dataset is a large collection of hand picked 3D CAD models and rendered depth images. This research project is published in ICRA 2017.",
+    "thumbnail": "/static/media/logos/sapienza.png"
+  },
+  {
+    "role": "Android Software Developer",
+    "title": "Freelancer",
+    "location": "Tehran, Iran",
+    "date": "February 2014 — June 2014",
+    "desc": "I developed several android applications and libraries for different companies."
+  },
+  {
+    "role": "Network Assistant and Java Programmer",
+    "title": "Bachelor Training Course",
+    "location": "ATSYS Electrical/Electronic Manufacturing, Tehran, Iran",
+    "date": "July 2013 — September 2013",
+    "desc": "I developed several modules using Java programming language for the Company’s Content Management System, also I assisted with the network’s infrastructure. It was a part of my training course which I passed during my bachelor degree.",
+    "thumbnail": "/static/media/logos/atsys.png"
+  },
+  {
+    "role": "Software Developerr",
+    "title": "Freelancer",
+    "location": "Tehran, Iran",
+    "date": "September 2010 — November 2011",
+    "desc": "I developed an application for statistical purposes for Pangan Avaran Company which was written in C#, also I developed a CMS Android application for a website called Armandownload."
+  }
+]

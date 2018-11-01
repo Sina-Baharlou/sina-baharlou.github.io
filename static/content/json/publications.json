@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Transfer learning approach for classification and noise reduction on noisy web data",
+    "type": "Journal",
+    "location": "Expert Systems with Applications",
+    "authors": "Sina Moayed Baharlou and Javad Abbasi Aghamaleki",
+    "doi": {
+      "title":"10.1016/j.eswa.2018.03.042",
+      "link":"https://doi.org/10.1016/j.eswa.2018.03.042"
+    },
+    "date": "September 2018",
+    "thumbnail": "/static/media/logos/elsevier.png",
+    "thumbTitle": "published by",
+    "extra": {
+      "abstract": "One of the main ingredients to learn a visual representation of an object using the Convolutional Neural Networks is a large and carefully annotated dataset. Acquiring a dataset in a demanded scale is not a straightforward task; therefore, the community attempts to solve this problem by creating noisy datasets gathered from web sources. In this paper, this issue is tackled by designing a vehicle recognition system using Convolutional Neural Networks and noisy web data. In the proposed system, the transfer learning technique is employed, and behavior of several deep architectures trained on a noisy dataset are studied. In addition, the external noise of the gathered dataset is reduced by exploiting an unsupervised method called Isolation Forest, and the new training results are examined. Based on the experiments, high recognition accuracies were achieved by training two states of the art networks on the noisy dataset, and the obtained results were slightly improved by using the proposed noise reduction framework. Finally, a demonstration application is provided to show the capability and the performance of the proposed approach.",
+      "pubUrl": "https://www.sciencedirect.com/science/article/pii/S0957417418301878",
+      "pageUrl": "https://sites.google.com/view/vehicle-recognition/home?authuser=0",
+      "bibtexUrl": "/static/content/bibtex/transfer_learning.bib"
+    }
+  },
+  {
+    "title": "(DE)²CO: Deep Depth Colorization (The primary paper)",
+    "type": "Journal",
+    "location": "Computing Research Repository (CoRR)",
+    "authors": "Fabio Maria Carlucci, Paolo Russo, Sina Moayed Baharlou, and Barbara Caputo",
+    "doi": "Not Assigned",
+    "date": "March 2017",
+    "thumbnail": "/static/media/logos/arxiv.png",
+    "thumbTitle": "published by",
+    "extra": {
+      "abstract": "Object recognition on depth images using convolutional neural networks requires mapping the data collected with depth sensors into three dimensional channels. This makes them processable by deep architectures, pre-trained over large scale RGB databases like ImageNet. Current mappings are based on heuristic assumptions over what depth properties should be most preserved, resulting often in cumbersome data visualizations, and likely in sub-optimal recognition results. Here we take an alternative route and we attempt instead to \\emph{learn} an optimal colorization mapping for any given pre-trained architecture, using as training data a reference RGB-D database. We propose a deep network architecture, exploiting the residual paradigm, that learns how to map depth data to three channel images from a reference database. A qualitative analysis of the images obtained with this approach clearly indicates that learning the optimal mapping for depth data preserves the richness of depth information much better than hand-crafted approaches currently in use. Experiments on the Washington, JHUIT-50 and BigBIRD public benchmark databases, using AlexNet, VGG-16, GoogleNet, ResNet and SqueezeNet, clearly showcase the power of our approach, with gains in performance of up to 17% compared to the state of the art.",
+      "pubUrl": "https://arxiv.org/abs/1703.10881v1",
+      "bibtexUrl": "/static/content/bibtex/de2co.bib"
+    }
+  },
+  {
+    "title": "Fast and adaptive license plate recognition algorithm for Persian plates",
+    "type": "Conference",
+    "location": "2015 2nd International Conference on Pattern Recognition and Image Analysis (IPRIA)",
+    "authors": "Sina Moayed Baharlou and Saeed Hemayat and Alireza Saberkari and Saber Yaghoobi",
+    "doi": {
+      "title":"10.1109/PRIA.2015.7161638",
+      "link":"https://doi.org/10.1109/PRIA.2015.7161638"
+    },
+    "date": "March 2015",
+    "thumbnail": "/static/media/logos/ieee.png",
+    "thumbTitle": "indexed in",
+    "extra": {
+      "abstract": "A new Persian license plate recognition algorithm is presented. These operations are highly susceptible to error, especially where the image consists of large amount of either vehicle's linked components or the other existing objects. Although the proposed character recognition procedure is highly optimized for Persian plates, the localization parts can be employed for all types of vehicles. Minimum rectangle bounding box is replaced the common bounding box methods, compensating normal bounding box's inherent flaws. License plate possibility ratio (LPPR) is a robust method proposed here to localize the plate. New method of finding plate's location out of so many rectangles, considering “Sensitive to angle” criterions for characters has also been presented. It should be noted that the process is regardless of the plate's location. Different approach on thresholding namely: “Dynamic Thresholding” is used to overcome the probable drawbacks caused by inappropriate lighting. From OCR point of view, a graph, consisting of two specifications will be formed and a set of rules will be defined to capture the character's label. An automated harassment section is added as the denoising filter, in order to omit the grinning ramifications. Presenting the best percent accuracy (95.33%) among relevant well-known algorithms in localization procedure with 25ms run time of the program, and also the outstanding results with over 97% of percent accuracy in character recognition of Persian plates with 30ms run time of the program on Linux and also average of 90ms on Android, can be listed as strong proofs of algorithm's efficiency.",
+      "pubUrl": "https://ieeexplore.ieee.org/abstract/document/7161638",
+      "bibtexUrl": "/static/content/bibtex/fast2.bib"
+    }
+  },
+  {
+    "title": "A fast and adaptive license plate localization algorithm with pattern-checking capabilities",
+    "type": "Conference",
+    "location": "7'th International Symposium on Telecommunications (IST'2014)",
+    "authors": "Saeed Hemayat and Alireza Saberkari and Sina Moayed Baharlou",
+    "doi": {
+      "title":"10.1109/ISTEL.2014.7000677",
+      "link":"https://doi.org/10.1109/ISTEL.2014.7000677"
+    },
+    "date": "September 2014",
+    "thumbnail": "/static/media/logos/ieee.png",
+    "thumbTitle": "indexed in",
+    "extra": {
+      "abstract": "A new license plate localization algorithm is presented. Execution times of these operations can rather be long, especially where the image consists of large amount of either vehicle's linked components or the other existing objects. This algorithm combines the image processing techniques with some statistical methods and eventually a pattern checking method is also added. Here, minimum rectangle bounding box has been used instead of common bounding box methods, detaching essential details out of blobs and performance improvement, combined with a defined quantity called license plate possibility ratio (LPPR) and standard deviation, we present a robust method of license plate localization. New way of finding license plate's location out of so many rectangles, considering “Sensitive to angle” conditions for characters has also been presented, specifically. It should be noted that the proposed algorithm is regardless of plate's location. This paper presents a different approach on thresholding utilization called “Dynamic Thresholding” which would be obtained by orderly scan of various and sequential ranges of threshold values, confronting probable drawbacks of image lighting caused by lack of light and brightness or another light source radiation, in which, the most desirable threshold value for detection procedure is unknown. Pattern checking phase consists of “Character-Separator” system, using predefined libraries, allows us to detect and specialize state or the city where the license plate's pattern is getting utilized. Presenting the best percent accuracy (95.33%) among relevant well-known algorithms, and also the 25ms run time of the program, would be strong proofs of algorithm's efficiency.",
+      "pubUrl": "https://ieeexplore.ieee.org/abstract/document/7000677",
+      "bibtexUrl": "/static/content/bibtex/fast.bib"
+    }
+  }
+]
