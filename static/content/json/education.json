@@ -6,10 +6,7 @@
     "items": {
       "thesis": "Depth Colorization using Deep CNNs",
       "major": "Visual Learning",
-      "adviser": {
-        "title":"Prof. Barbara Caputo",
-        "link":"http://heima88.altervista.org/wordpress/"
-      },
+      "adviser": "Prof. Barbara Caputo",
       "grade": "110/110",
       "GPA": "28/30"
     },
@@ -22,7 +19,7 @@
     "items": {
       "Thesis": "License Plate Recognition Software",
       "Major": "Image Processing",
-      "Advisor": "Prof. Shahrdad Ezzatdoust",
+      "adviser": "Prof. Shahrdad Ezzatdoust",
       "GPA": "15.44/20"
     },
     "thumbnail": "/static/media/logos/iau.png"

@@ -3,10 +3,7 @@
     "title": "Depth Colorization using Deep Convolutional Neural Networks",
     "association": "Sapienza University of Rome",
     "course": "Master Thesis",
-    "adviser": {
-      "title":"Prof. Barbara Caputo",
-      "link":"http://heima88.altervista.org/wordpress/"
-    },
+    "adviser":"Prof. Barbara Caputo",
     "date": "January 2017",
     "extra": {
       "abstract": "Recent works in RGB-D object recognition use pre-trained Convolutional Neural Networks to extract features from depth images and use them in the RGB-D classification task to increase the overall accuracy. For this purpose, they proposed several hand-designed methods for colorizing the depth images to make them compatible to be fed into a Convolutional Neural Network. The goal of this master thesis is to design a fully trainable system with the ability to learn how to colorize and normalize the depth information. To do this, we propose a pipeline consisting of five steps. Preprocessing the raw images using a novel method which employes an edge-preserving algorithm called HQX, extracting the image patches with high entropy for unsupervised feature learning approaches, training an auto-encoder to learn effective filter maps for the first convolutional layer of the colorization network, training the colorization network, and colorizing the depth images using the proposed architecture. Later on, it is conveyed that that our method outperforms the state-of-the-art colorization algorithm and improves the recognition accuracy.",
