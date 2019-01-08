@@ -5,7 +5,7 @@
   },
   {
     "key": "Machine Learning Libraries",
-    "value": "Caffe, OpenCV, Scikit-Learn, SciPy, NumPy, Tensorflow, Tensorflow JS, Keras, Torch, DIGITS"
+    "value": "Caffe, OpenCV, SciKit-Learn, SciPy, NumPy, Tensorflow, Tensorflow JS, Keras, Torch, DIGITS"
   },
   {
     "key": "Artificial Intelligence Tools",
@@ -25,7 +25,7 @@
   },
   {
     "key": "Web developing",
-    "value": "VueJs, Flask, PHP, Ajax, JQuery, Bootstrap, HTML"
+    "value": "VueJs, Flask, PHP, Ajax, JQuery,Bootstrap, HTML"
   },
   {
     "key":"Databases",
