@@ -3,37 +3,37 @@
   <url>
     <loc>https://www.sinabaharlou.com/</loc>
     <priority>1.0</priority>
-    <lastmod>2019-01-08</lastmod>
+    <lastmod>2019-01-20</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://www.sinabaharlou.com/#education</loc>
     <priority>0.5</priority>
-    <lastmod>2019-01-08</lastmod>
+    <lastmod>2019-01-20</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://www.sinabaharlou.com/#publications</loc>
     <priority>0.5</priority>
-    <lastmod>2019-01-08</lastmod>
+    <lastmod>2019-01-20</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://www.sinabaharlou.com/#projects</loc>
     <priority>0.5</priority>
-    <lastmod>2019-01-08</lastmod>
+    <lastmod>2019-01-20</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://www.sinabaharlou.com/#skills</loc>
     <priority>0.5</priority>
-    <lastmod>2019-01-08</lastmod>
+    <lastmod>2019-01-20</lastmod>
     <changefreq>monthly</changefreq>
   </url>
-    <url>
+  <url>
     <loc>https://www.sinabaharlou.com/VehicleRecognition/</loc>
     <priority>0.5</priority>
-    <lastmod>2019-01-17</lastmod>
+    <lastmod>2019-01-20</lastmod>
     <changefreq>monthly</changefreq>
   </url>
 </urlset>
