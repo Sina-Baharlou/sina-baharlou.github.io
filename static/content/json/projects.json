@@ -7,7 +7,8 @@
     "date": "June 2017 – March 2018",
     "extra": {
       "abstract": "One of the main ingredients to learn a visual representation of an object using the Convolutional Neural Networks is a large and carefully annotated dataset. Acquiring a dataset in a demanded scale is not a straightforward task; therefore, the community attempts to solve this problem by creating noisy datasets gathered from web sources. In this paper, this issue is tackled by designing a vehicle recognition system using Convolutional Neural Networks and noisy web data. In the proposed system, the transfer learning technique is employed, and behavior of several deep architectures trained on a noisy dataset are studied. In addition, the external noise of the gathered dataset is reduced by exploiting an unsupervised method called Isolation Forest, and the new training results are examined. Based on the experiments, high recognition accuracies were achieved by training two states of the art networks on the noisy dataset, and the obtained results were slightly improved by using the proposed noise reduction framework. Finally, a demonstration application is provided to show the capability and the performance of the proposed approach.",
-      "prjUrl": "https://sites.google.com/view/vehicle-recognition/home?authuser=0",
+      "prjUrl": "https://www.sinabaharlou.com/VehicleRecognition/",
+      "gitUrl":"https://github.com/Sina-Baharlou/VR-Android",
       "gallery": [
         {
           "url":"/static/media/projects/vehicle-recognition/general-approach.jpg",
@@ -45,7 +46,7 @@
   {
     "title": "Depth Colorization using Deep Convolutional Neural Networks",
     "association": "Sapienza University of Rome",
-    "course": "Master Thesis",
+    "course": "Master's Thesis",
     "adviser": "Prof. Barbara Caputo",
     "date": "June 2016 – January 2017",
     "extra": {
@@ -97,6 +98,7 @@
     "date": "September 2016 – October 2016",
     "extra": {
       "abstract": "This project focuses on GSAT and WalkSAT algorithms and their extensions which are particularly used to solve the Boolean satisfiability problem. The goal of this project is to compare the performances of the cited algorithms with different heuristics. The ability to find the model and the algorithm run-time are the two main comparison criteria which have been used in this project. Another important aspect of the project is the random initializations of the algorithms which turns out to be one significant factor to avoid the local maxima. Different random initialization methods were discussed in this report altogether with their implementational details.",
+      "gitUrl":"https://github.com/Sina-Baharlou/GSAT-WalkSAT",
       "gallery": [
         {
           "url":"/static/media/projects/gw-sat/gwsat-results-01.jpg",
