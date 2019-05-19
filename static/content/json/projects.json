@@ -8,7 +8,7 @@
     "extra": {
       "abstract": "One of the main ingredients to learn a visual representation of an object using the Convolutional Neural Networks is a large and carefully annotated dataset. Acquiring a dataset in a demanded scale is not a straightforward task; therefore, the community attempts to solve this problem by creating noisy datasets gathered from web sources. In this paper, this issue is tackled by designing a vehicle recognition system using Convolutional Neural Networks and noisy web data. In the proposed system, the transfer learning technique is employed, and behavior of several deep architectures trained on a noisy dataset are studied. In addition, the external noise of the gathered dataset is reduced by exploiting an unsupervised method called Isolation Forest, and the new training results are examined. Based on the experiments, high recognition accuracies were achieved by training two states of the art networks on the noisy dataset, and the obtained results were slightly improved by using the proposed noise reduction framework. Finally, a demonstration application is provided to show the capability and the performance of the proposed approach.",
       "prjUrl": "https://www.sinabaharlou.com/VehicleRecognition/",
-      "gitUrl":"https://github.com/Sina-Baharlou/VR-Android",
+      "gitUrl":"https://github.com/Sina-Baharlou/Vehicle-Recognition-Android",
       "gallery": [
         {
           "url":"/static/media/projects/vehicle-recognition/general-approach.jpg",
@@ -125,7 +125,7 @@
     "date": "December 2015 – February 2016",
     "extra": {
       "abstract": "This is a brief report and summarization on the least squares technique for state estimation of a stationary non-linear system. The general definition of a system and the gauss-newton direct minimization algorithm will be reviewed. In addition to the definitions and formulations, a real-life example on how to use least squares to estimate the 3D pose of an RGBD camera will be discussed with the implementation details.",
-      "gitUrl":"https://github.com/Sina-Baharlou/PositSolver",
+      "gitUrl":"https://github.com/Sina-Baharlou/Pose-Estimation-RGBD",
       "gallery": [
         {
           "url":"/static/media/projects/slam/slam-demo-01.jpg",
@@ -158,7 +158,7 @@
     "date": "June 2015 – September 2015",
     "extra": {
       "abstract": "This project focuses on the implementation and designing a filter (Extended kalman filter) for estimating a 2D planar robot position and orientation. In this project the traversed path assumed to be 3-Dimensional, and the information used to estimate the robot position and orientation is the data from Odometry and IMU devices.",
-      "gitUrl":"https://github.com/Sina-Baharlou/EKF",
+      "gitUrl":"https://github.com/Sina-Baharlou/Pose-Estimation-EKF",
       "gallery": [
         {
           "url":"/static/media/projects/ekf/ekf-imu-data.jpg",
@@ -191,7 +191,7 @@
     "date": "November 2014 – March 2015",
     "extra":{
       "abstract":"This project is a comparative study of the most popular appearance-based face recognition projection methods (PCA and ICA). The three architectures discussed by 'Face Recognition by Independent Component Analysis' are implemented in this project, and built-in functions of artificial neural network, and K nearest-neighbors are used as the classification methods. Also two popular databases for face recognition (Yale and ORL) are used here in order to test the accuracy of the implemented methods.",
-      "gitUrl":"https://github.com/Sina-Baharlou/FaceRecognition",
+      "gitUrl":"https://github.com/Sina-Baharlou/Face-Recognition",
       "gallery":[
         {
           "url":"/static/media/projects/face/face-overview.jpg",
