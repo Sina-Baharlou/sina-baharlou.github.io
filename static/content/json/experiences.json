@@ -1,14 +1,6 @@
 [
   {
     "role": "Research Experience",
-    "title": "Vehicle Recognition Research Project",
-    "location": "Iran's Traffic Department, Tehran, Iran",
-    "date": "June 2017 — March 2018",
-    "desc": "In this research project, I have proposed a novel vehicle recognition system and noise reduction framework based on Transfer Learning and Convolutional Neural Networks. Moreover, I collected an unsupervised dataset of vehicle images, developed various modules and achieved plausible results. Ultimately, I developed an Android application to demonstrate the capability of our approach. This project also resulted in a publication called \"Transfer Learning Approach for Classification and Noise Reduction on Noisy Web Data\" in the Journal of Expert Systems with Applications.",
-    "thumbnail": "/static/media/logos/vr.png"
-  },
-  {
-    "role": "Research Experience",
     "title": "Early research on Deep Depth Colorization",
     "location": "Sapienza University of Rome, Italy",
     "date": "November 2016 — March 2017",
