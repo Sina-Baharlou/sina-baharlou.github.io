@@ -5,7 +5,7 @@
   },
   {
     "key": "Machine Learning Libraries",
-    "value": "Caffe, Tensorflow, Tensorflow.js, Keras, DIGITS, OpenCV, SciKit-Learn, SciPy, NumPy"
+    "value": "Caffe, Tensorflow, PyTorch, Keras, DIGITS, OpenCV, SciKit-Learn, SciPy, NumPy"
   },
   {
     "key": "Artificial Intelligence Tools",

@@ -1,5 +1,19 @@
 [
   {
+    "title": "Improving Visual Relation Detection using Depth Maps",
+    "type": "Journal",
+    "location": "Computing Research Repository (CoRR)",
+    "authors": "Sahand Sharifzadeh, Sina Moayed Baharlou, Max Berrendorf, Rajat Koner, Volker Tresp",
+    "doi": "Not assigned",
+    "date": "October 2019",
+    "thumbnail": "/static/media/logos/arxiv.png",
+    "thumbTitle": "published by",
+    "extra": {
+      "abstract": "State of the art visual relation detection methods mostly rely on object information extracted from RGB images such as predicted class probabilities, 2D bounding boxes and feature maps. In this paper, we argue that the 3D positions of objects in space can provide additional valuable information about object relations. This information helps not only to detect spatial relations, such as standing behind, but also non-spatial relations, such as holding. Since 3D information of a scene is not easily accessible, we propose incorporating a pre-trained RGB-to-Depth model within visual relation detection frameworks. We discuss different feature extraction strategies from depth maps and show their critical role in relation detection. Our experiments confirm that the performance of state-of-the-art visual relation detection approaches can significantly be improved by utilizing depth map information.",
+      "pubUrl": "https://arxiv.org/abs/1905.00966"
+    }
+  },
+  {
     "title": "Transfer learning approach for classification and noise reduction on noisy web data",
     "type": "Journal",
     "location": "Expert Systems with Applications",
@@ -37,7 +51,7 @@
     "title": "Fast and adaptive license plate recognition algorithm for Persian plates",
     "type": "Conference",
     "location": "2015 2nd International Conference on Pattern Recognition and Image Analysis (IPRIA)",
-    "authors": "Sina Moayed Baharlou and Saeed Hemayat and Alireza Saberkari and Saber Yaghoobi",
+    "authors": "Sina Moayed Baharlou, Saeed Hemayat, Alireza Saberkari, Saber Yaghoobi",
     "doi": {
       "title":"10.1109/PRIA.2015.7161638",
       "link":"https://doi.org/10.1109/PRIA.2015.7161638"
@@ -55,7 +69,7 @@
     "title": "A fast and adaptive license plate localization algorithm with pattern-checking capabilities",
     "type": "Conference",
     "location": "7'th International Symposium on Telecommunications (IST'2014)",
-    "authors": "Saeed Hemayat and Alireza Saberkari and Sina Moayed Baharlou",
+    "authors": "Saeed Hemayat, Alireza Saberkari, Sina Moayed Baharlou",
     "doi": {
       "title":"10.1109/ISTEL.2014.7000677",
       "link":"https://doi.org/10.1109/ISTEL.2014.7000677"
