@@ -1,9 +1,7 @@
 User-agent: *
-Disallow: /static/content/
 Disallow: /static/css/
 Disallow: /static/fonts/
-Disallow: /static/js/
 Disallow: /static/webfonts/
-Disallow: /favicon.ico
+
 
 Sitemap: https://www.sinabaharlou.com/sitemap.xml
