@@ -1,11 +1,11 @@
 [
   {
-    "title": "Our work <i>\"Improving Visual Relation Detection using Depth Maps\"<i> has been accepted to International Conference on Pattern Recognition (ICPR).",
+    "title": "Our work <b>\"Improving Visual Relation Detection using Depth Maps\"</b> has been accepted to International Conference on Pattern Recognition (ICPR 2020).",
     "location": "Tehran, Iran",
     "date": "June 22, 2020"
   },
   {
-    "title": "The codes of our project <i>\"Improving Visual Relation Detection using Depth Maps\"<i> are now available on github <a target='_blank' href='https://github.com/Sina-Baharlou/Depth-VRD'>Depth-VRD</a>.",
+    "title": "The codes of our project <b>\"Improving Visual Relation Detection using Depth Maps\"</b> are now available on github <a target='_blank' href='https://github.com/Sina-Baharlou/Depth-VRD'>Depth-VRD</a>.",
     "location": "Tehran, Iran",
     "date": "January 31, 2020"
   },
@@ -15,32 +15,27 @@
     "date": "June 1, 2019"
   },
   {
-    "title": "A new Vehicle Recognition web page with a Tensorflow.js demonstration has been launched: <a target='_blank' href='https://www.sinabaharlou.com/VehicleRecognition/'>www.sinabaharlou.com/VehicleRecognition</a>",
+    "title": "A new Vehicle Recognition web page with a Tensorflow.js demonstration has been launched: <a target='_blank' href='https://www.sinabaharlou.com/VehicleRecognition/'>www.sinabaharlou.com/VehicleRecognition</a>.",
     "location": "Tehran, Iran",
     "date": "January 26, 2019"
   },
   {
-    "title": "The paper <i>\"Transfer learning approach for classification and noise reduction on noisy web data\"</i> is published on the journal of Expert Systems with Applications",
+    "title": "The paper <b>\"Transfer learning approach for classification and noise reduction on noisy web data\"</b> is published on the journal of Expert Systems with Applications (ESWA).",
     "location": "Tehran, Iran",
     "date": "September 1, 2018"
   },
   {
-    "title": "The paper <i>\"Transfer learning approach for classification and noise reduction on noisy web data\"</i> has been accepted in the journal of Expert Systems with Applications",
-    "location": "Tehran, Iran",
-    "date": "22 March 2018"
-  },
-  {
-    "title": "Submitted the Paper <i>\"Transfer learning approach for classification and noise reduction on noisy web data\"</i> to the journal of Expert Systems with Applications",
+    "title": "Submitted the Paper <b>\"Transfer learning approach for classification and noise reduction on noisy web data\"</b> to the journal of Expert Systems with Applications (ESWA).",
     "location": "Tehran, Iran",
     "date": "14 November 2017"
   },
   {
-    "title": "Started working on the Vehicle Recognition Project",
+    "title": "Started working on the Vehicle Recognition Project.",
     "location": "Tehran, Iran",
     "date": "5 June 2017"
   },
   {
-    "title": "Graduated from Sapienza University of Rome",
+    "title": "Graduated from Sapienza University of Rome.",
     "location": "Rome, Italy",
     "date": "19 January 2017"
   }
