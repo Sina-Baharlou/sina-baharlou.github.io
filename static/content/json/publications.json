@@ -1,5 +1,20 @@
 [
   {
+    "title": "Classification by Attention: Scene Graph Classification with Prior Knowledge",
+    "type": "Journal",
+    "location": "Computing Research Repository (CoRR)",
+    "authors": "Sahand Sharifzadeh, Sina Moayed Baharlou, Volker Tresp",
+    "doi": "Not assigned",
+    "date": "November 2020",
+    "thumbnail": "/static/media/logos/arxiv.png",
+    "thumbTitle": "published by",
+    "extra": {
+      "abstract": "A main challenge in scene graph classification is that the appearance of objects and relations can be significantly different from one image to another. Previous works have addressed this by relational reasoning over all objects in an image, or incorporating prior knowledge into classification. Unlike previous works, we do not consider separate models for the perception and prior knowledge. Instead, we take a multi-task learning approach, where the classification is implemented as an attention layer. This allows for the prior knowledge to emerge and propagate within the perception model. By enforcing the model to also represent the prior, we achieve a strong inductive bias. We show that our model can accurately generate commonsense knowledge and that the iterative injection of this knowledge to scene representations leads to a significantly higher classification performance. Additionally, our model can be fine-tuned on external knowledge given as triples. When combined with self-supervised learning, this leads to accurate predictions with 1% of annotated images only.",
+      "pubUrl": "https://arxiv.org/abs/2011.10084",
+      "bibtexUrl": "/static/content/bibtex/sharifzadeh2020classification.bib"
+    }
+  },
+  {
     "title": "Improving Visual Relation Detection using Depth Maps",
     "type": "Conference",
     "location": "25th International Conference on Pattern Recognition (ICPR)",
