@@ -1,5 +1,20 @@
 [
   {
+    "title": "Improving Visual Reasoning by Exploiting the Knowledge in Texts",
+    "type": "Conference",
+    "location": "Computing Research Repository (CoRR)",
+    "authors": "Sahand Sharifzadeh*, Sina Moayed Baharlou*, Martin Schmitt, Hinrich Schütze, Volker Tresp",
+    "doi": "Not assigned",
+    "date": "February 2021",
+    "thumbnail": "/static/media/logos/arxiv.png",
+    "thumbTitle": "published by",
+    "extra": {
+      "abstract": "This paper presents a new framework for training image-based classifiers from a combination of texts and images with very few labels. We consider a classification framework with three modules: a backbone, a relational reasoning component, and a classification component. While the backbone can be trained from unlabeled images by self-supervised learning, we can fine-tune the relational reasoning and the classification components from external sources of knowledge instead of annotated images. By proposing a transformer-based model that creates structured knowledge from textual input, we enable the utilization of the knowledge in texts. We show that, compared to the supervised baselines with 1% of the annotated images, we can achieve ~8x more accurate results in scene graph classification, ~3x in object classification, and ~1.5x in predicate classification.",
+      "pubUrl": "https://arxiv.org/abs/2102.04760",
+      "bibtexUrl": "/static/content/bibtex/sharifzadeh2021improving.bib"
+    }
+  },
+  {
     "title": "Classification by Attention: Scene Graph Classification with Prior Knowledge",
     "type": "Conference",
     "location": "35th AAAI Conference on Artificial Intelligence",
