@@ -8,41 +8,11 @@
     "thumbnail": "/static/media/logos/lmu.png"
   },
   {
-    "role": "Research Experience on Transfer Learning and Vehicle Recognition",
-    "title": "Iran's Traffic Department",
-    "location": "Tehran, Iran",
-    "date": "June 2017 — March 2018",
-    "desc": "I conducted a research project with a comparative approach aimed to determine the robustness of training deep neural networks on a noisy dataset using the transfer learning technique. The proposed method was applied in a vehicle recognition scenario and resulted in a journal publication.",
-    "thumbnail": "/static/media/logos/vr.png"
-  },
-  {
     "role": "Research Experience on Deep Depth Colorization",
     "title": "Sapienza University of Rome",
     "location": "Rome, Italy",
     "date": "November 2016 — March 2017",
     "desc": "I contributed to the early research on 'Depth Colorization' where we proposed a deep learning approach of normalizing and mapping the depth images into three channels in order to improve the recognition accuracy of RGB-D images (Nov. 2016 - Mar. 2017). I Also assisted in the preparation phase of a synthetic depth dataset called 'VANDAL' which is used to train ConvNets (Feb. 2016 - Apr. 2016).",
     "thumbnail": "/static/media/logos/sapienza.png"
-  },
-  {
-    "role": "Android Software Developer",
-    "title": "Different Companies",
-    "location": "Tehran, Iran",
-    "date": "February 2014 — June 2014",
-    "desc": "I developed a RESTful application for Avasamaneh company, and an Android application for management purposes."
-  },
-  {
-    "role": "Network Assistant and Java Programmer",
-    "title": "ATSYS Electrical/Electronic Manufacturing Company",
-    "location": "Tehran, Iran",
-    "date": "July 2013 — September 2013",
-    "desc": "I developed several modules using Java programming language for the Company’s Content Management System. Furthermore, I assisted in configuring the network’s infrastructure. It was a part of my training course which I passed during my bachelor’s degree.",
-    "thumbnail": "/static/media/logos/atsys.png"
-  },
-  {
-    "role": "Software Developer",
-    "title": "Different Companies",
-    "location": "Tehran, Iran",
-    "date": "September 2010 — November 2011",
-    "desc": "I developed an application for statistical purposes for Pangan Avaran company which was written in C#. In addition, I developed a CMS Android application for a website called Armandownload."
   }
 ]
