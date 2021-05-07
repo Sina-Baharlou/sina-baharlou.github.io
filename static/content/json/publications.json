@@ -34,13 +34,16 @@
     "type": "Conference",
     "location": "25th International Conference on Pattern Recognition (ICPR)",
     "authors": "Sahand Sharifzadeh, Sina Moayed Baharlou, Max Berrendorf, Rajat Koner, Volker Tresp",
-    "doi": "Not assigned",
+    "doi": {
+      "title":"10.1109/ICPR48806.2021.9412945",
+      "link":"https://doi.org/10.1109/ICPR48806.2021.9412945"
+    },
     "date": "June 2020",
     "thumbnail": "/static/media/logos/icpr2020.png",
     "thumbTitle": "published by",
     "extra": {
       "abstract": "Visual relation detection methods rely on object information extracted from RGB images such as 2D bounding boxes, feature maps, and predicted class probabilities. We argue that depth maps can additionally provide valuable information on object relations, e.g. helping to detect not only spatial relations, such as standing behind, but also non-spatial relations, such as holding. In this work, we study the effect of using different object features with a focus on depth maps. To enable this study, we release a new synthetic dataset of depth maps, VG-Depth, as an extension to Visual Genome (VG). We also note that given the highly imbalanced distribution of relations in VG, typical evaluation metrics for visual relation detection cannot reveal improvements of under-represented relations. To address this problem, we propose using an additional metric, calling it Macro Recall@K, and demonstrate its remarkable performance on VG. Finally, our experiments confirm that by effective utilization of depth maps within a simple, yet competitive framework, the performance of visual relation detection can be improved by a margin of up to 8%.",
-      "pubUrl": "https://arxiv.org/abs/1905.00966",
+      "pubUrl": "https://ieeexplore.ieee.org/document/9412945",
       "bibtexUrl": "/static/content/bibtex/sah2019improving.bib",
       "gitUrl": "https://github.com/Sina-Baharlou/Depth-VRD"
     }
