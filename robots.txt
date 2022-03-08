@@ -1,4 +1,4 @@
-User-agent: *s
+User-agent: *
 Disallow: /static/fonts/
 Disallow: /static/webfonts/
 
