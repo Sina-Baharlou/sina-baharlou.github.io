@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Improving Scene Graph Classification by Exploiting Knowledge from Texts",
+    "type": "Conference",
+    "location": "36th AAAI Conference on Artificial Intelligence",
+    "authors": "Sahand Sharifzadeh*, Sina Moayed Baharlou*, Martin Schmitt, Hinrich Schütze, Volker Tresp",
+    "doi": "Not assigned",
+    "date": "December 2021",
+    "thumbnail": "/static/media/logos/aaai.png",
+    "thumbTitle": "published by",
+    "equal":true,
+    "extra": {
+      "abstract": "Training scene graph classification models requires a large amount of annotated image data. Meanwhile, scene graphs represent relational knowledge that can be modeled from symbolic data such as in texts or knowledge graphs. While image annotation demands extensive labor, collecting textual descriptions of natural scenes requires less effort. In this work, we investigate whether textual scene descriptions can substitute for annotated image data. To this end, we employ a scene graph classification framework that is trained not only from annotated images but also from symbolic data. In our architecture, the symbolic entities are first mapped to their correspondent image-grounded representations and then fed into the relational reasoning pipeline. Even though a structured form of knowledge, such as the form in knowledge graphs is not always available, we can generate it from unstructured texts using a transformer-based language model. We show that by fine-tuning the classification pipeline with the extracted knowledge from texts, we can achieve ~8x more accurate results in scene graph classification, ~3x in object classification, and ~1.5x in predicate classification, compared to the supervised baselines with only 1% of the annotated images.",
+      "pubUrl": "https://arxiv.org/abs/2102.04760",
+      "bibtexUrl": "/static/content/bibtex/sharifzadeh2021improving.bib"
+    }
+  },
+  {
+    "title": "Classification by Attention: Scene Graph Classification with Prior Knowledge",
+    "type": "Conference",
+    "location": "35th AAAI Conference on Artificial Intelligence",
+    "authors": "Sahand Sharifzadeh, Sina Moayed Baharlou, Volker Tresp",
+    "doi": "Not assigned",
+    "date": "May 2021",
+    "thumbnail": "/static/media/logos/aaai.png",
+    "thumbTitle": "published by",
+    "extra": {
+      "abstract": "A major challenge in scene graph classification is that the appearance of objects and relations can be significantly different from one image to another. Previous works have addressed this by relational reasoning over all objects in an image or incorporating prior knowledge into classification. Unlike previous works, we do not consider separate models for perception and prior knowledge. Instead, we take a multi-task learning approach, where we implement the classification as an attention layer. This allows for the prior knowledge to emerge and propagate within the perception model. By enforcing the model also to represent the prior, we achieve a strong inductive bias. We show that our model can accurately generate commonsense knowledge and that the iterative injection of this knowledge to scene representations leads to significantly higher classification performance. Additionally, our model can be fine-tuned on external knowledge given as triples. When combined with self-supervised learning and with 1% of annotated images only, this gives more than 3% improvement in object classification, 26% in scene graph classification, and 36% in predicate prediction accuracy.",
+      "pubUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/16636",
+      "bibtexUrl": "/static/content/bibtex/classification_by_attention.bib"
+    }
+  },
+  {
+    "title": "Improving Visual Relation Detection using Depth Maps",
+    "type": "Conference",
+    "location": "25th International Conference on Pattern Recognition (ICPR)",
+    "authors": "Sahand Sharifzadeh, Sina Moayed Baharlou, Max Berrendorf, Rajat Koner, Volker Tresp",
+    "doi": {
+      "title":"10.1109/ICPR48806.2021.9412945",
+      "link":"https://doi.org/10.1109/ICPR48806.2021.9412945"
+    },
+    "date": "June 2020",
+    "thumbnail": "/static/media/logos/icpr2020.png",
+    "thumbTitle": "published by",
+    "extra": {
+      "abstract": "Visual relation detection methods rely on object information extracted from RGB images such as 2D bounding boxes, feature maps, and predicted class probabilities. We argue that depth maps can additionally provide valuable information on object relations, e.g. helping to detect not only spatial relations, such as standing behind, but also non-spatial relations, such as holding. In this work, we study the effect of using different object features with a focus on depth maps. To enable this study, we release a new synthetic dataset of depth maps, VG-Depth, as an extension to Visual Genome (VG). We also note that given the highly imbalanced distribution of relations in VG, typical evaluation metrics for visual relation detection cannot reveal improvements of under-represented relations. To address this problem, we propose using an additional metric, calling it Macro Recall@K, and demonstrate its remarkable performance on VG. Finally, our experiments confirm that by effective utilization of depth maps within a simple, yet competitive framework, the performance of visual relation detection can be improved by a margin of up to 8%.",
+      "pubUrl": "https://ieeexplore.ieee.org/document/9412945",
+      "bibtexUrl": "/static/content/bibtex/sah2019improving.bib",
+      "gitUrl": "https://github.com/Sina-Baharlou/Depth-VRD"
+    }
+  },
+  {
+    "title": "Transfer learning approach for classification and noise reduction on noisy web data",
+    "type": "Journal",
+    "location": "Expert Systems with Applications",
+    "authors": "Javad Abbasi Aghamaleki and Sina Moayed Baharlou.",
+    "doi": {
+      "title":"10.1016/j.eswa.2018.03.042",
+      "link":"https://doi.org/10.1016/j.eswa.2018.03.042"
+    },
+    "date": "September 2018",
+    "thumbnail": "/static/media/logos/elsevier.png",
+    "thumbTitle": "published by",
+    "extra": {
+      "abstract": "One of the main ingredients to learn a visual representation of an object using the Convolutional Neural Networks is a large and carefully annotated dataset. Acquiring a dataset in a demanded scale is not a straightforward task; therefore, the community attempts to solve this problem by creating noisy datasets gathered from web sources. In this paper, this issue is tackled by designing a vehicle recognition system using Convolutional Neural Networks and noisy web data. In the proposed system, the transfer learning technique is employed, and behavior of several deep architectures trained on a noisy dataset are studied. In addition, the external noise of the gathered dataset is reduced by exploiting an unsupervised method called Isolation Forest, and the new training results are examined. Based on the experiments, high recognition accuracies were achieved by training two states of the art networks on the noisy dataset, and the obtained results were slightly improved by using the proposed noise reduction framework. Finally, a demonstration application is provided to show the capability and the performance of the proposed approach.",
+      "pubUrl": "https://www.sciencedirect.com/science/article/pii/S0957417418301878",
+      "pageUrl": "https://www.sinabaharlou.com/VehicleRecognition/",
+      "bibtexUrl": "/static/content/bibtex/transfer_learning.bib"
+    }
+  },
+  {
+    "title": "Fast and adaptive license plate recognition algorithm for Persian plates",
+    "type": "Conference",
+    "location": "2015 2nd International Conference on Pattern Recognition and Image Analysis (IPRIA)",
+    "authors": "Sina Moayed Baharlou, Saeed Hemayat, Alireza Saberkari, Saber Yaghoobi",
+    "doi": {
+      "title":"10.1109/PRIA.2015.7161638",
+      "link":"https://doi.org/10.1109/PRIA.2015.7161638"
+    },
+    "date": "March 2015",
+    "thumbnail": "/static/media/logos/ieee.png",
+    "thumbTitle": "indexed in",
+    "extra": {
+      "abstract": "A new Persian license plate recognition algorithm is presented. These operations are highly susceptible to error, especially where the image consists of large amount of either vehicle's linked components or the other existing objects. Although the proposed character recognition procedure is highly optimized for Persian plates, the localization parts can be employed for all types of vehicles. Minimum rectangle bounding box is replaced the common bounding box methods, compensating normal bounding box's inherent flaws. License plate possibility ratio (LPPR) is a robust method proposed here to localize the plate. New method of finding plate's location out of so many rectangles, considering “Sensitive to angle” criterions for characters has also been presented. It should be noted that the process is regardless of the plate's location. Different approach on thresholding namely: “Dynamic Thresholding” is used to overcome the probable drawbacks caused by inappropriate lighting. From OCR point of view, a graph, consisting of two specifications will be formed and a set of rules will be defined to capture the character's label. An automated harassment section is added as the denoising filter, in order to omit the grinning ramifications. Presenting the best percent accuracy (95.33%) among relevant well-known algorithms in localization procedure with 25ms run time of the program, and also the outstanding results with over 97% of percent accuracy in character recognition of Persian plates with 30ms run time of the program on Linux and also average of 90ms on Android, can be listed as strong proofs of algorithm's efficiency.",
+      "pubUrl": "https://ieeexplore.ieee.org/abstract/document/7161638",
+      "bibtexUrl": "/static/content/bibtex/fast2.bib"
+    }
+  },
+  {
+    "title": "A fast and adaptive license plate localization algorithm with pattern-checking capabilities",
+    "type": "Conference",
+    "location": "7'th International Symposium on Telecommunications (IST'2014)",
+    "authors": "Saeed Hemayat, Alireza Saberkari, Sina Moayed Baharlou",
+    "doi": {
+      "title":"10.1109/ISTEL.2014.7000677",
+      "link":"https://doi.org/10.1109/ISTEL.2014.7000677"
+    },
+    "date": "September 2014",
+    "thumbnail": "/static/media/logos/ieee.png",
+    "thumbTitle": "indexed in",
+    "extra": {
+      "abstract": "A new license plate localization algorithm is presented. Execution times of these operations can rather be long, especially where the image consists of large amount of either vehicle's linked components or the other existing objects. This algorithm combines the image processing techniques with some statistical methods and eventually a pattern checking method is also added. Here, minimum rectangle bounding box has been used instead of common bounding box methods, detaching essential details out of blobs and performance improvement, combined with a defined quantity called license plate possibility ratio (LPPR) and standard deviation, we present a robust method of license plate localization. New way of finding license plate's location out of so many rectangles, considering “Sensitive to angle” conditions for characters has also been presented, specifically. It should be noted that the proposed algorithm is regardless of plate's location. This paper presents a different approach on thresholding utilization called “Dynamic Thresholding” which would be obtained by orderly scan of various and sequential ranges of threshold values, confronting probable drawbacks of image lighting caused by lack of light and brightness or another light source radiation, in which, the most desirable threshold value for detection procedure is unknown. Pattern checking phase consists of “Character-Separator” system, using predefined libraries, allows us to detect and specialize state or the city where the license plate's pattern is getting utilized. Presenting the best percent accuracy (95.33%) among relevant well-known algorithms, and also the 25ms run time of the program, would be strong proofs of algorithm's efficiency.",
+      "pubUrl": "https://ieeexplore.ieee.org/abstract/document/7000677",
+      "bibtexUrl": "/static/content/bibtex/fast.bib"
+    }
+  }
+]

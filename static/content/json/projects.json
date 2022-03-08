@@ -1,0 +1,244 @@
+[
+  {
+    "title": "Depth Colorization using Deep Convolutional Neural Networks",
+    "association": "Sapienza University of Rome",
+    "course": "Master's Thesis",
+    "adviser": "Prof. Barbara Caputo",
+    "date": "June 2016 – January 2017",
+    "extra": {
+      "abstract": "Recent works in RGB-D object recognition use pre-trained Convolutional Neural Networks to extract features from depth images and use them in the RGB-D classification task to increase the overall accuracy. For this purpose, they proposed several hand-designed methods for colorizing the depth images to make them compatible to be fed into a Convolutional Neural Network. The goal of this master thesis is to design a fully trainable system with the ability to learn how to colorize and normalize the depth information. To do this, we propose a pipeline consisting of five steps. Preprocessing the raw images using a novel method which employes an edge-preserving algorithm called HQX, extracting the image patches with high entropy for unsupervised feature learning approaches, training an auto-encoder to learn effective filter maps for the first convolutional layer of the colorization network, training the colorization network, and colorizing the depth images using the proposed architecture. Later on, it is conveyed that that our method outperforms the state-of-the-art colorization algorithm and improves the recognition accuracy.",
+      "gallery": [
+        {
+          "url":"/static/media/projects/deep/deep-overview-01.jpg",
+          "title":"The proposed object recognition approach"
+        },
+        {
+          "url":"/static/media/projects/deep/deep-overview-02.jpg",
+          "title":"Depth colorization pipeline, illustrated on a specific database (Washington db)"
+        },
+        {
+          "url":"/static/media/projects/deep/deep-overview-03.jpg",
+          "title":"The proposed learning approach"
+        },
+        {
+          "url":"/static/media/projects/deep/deep-overview-04.jpg",
+          "title":"The activation layers of Depth Colorization network"
+        },
+        {
+          "url":"/static/media/projects/deep/deep-results-01.jpg",
+          "title":"Autoencoder network loss"
+        },
+        {
+          "url":"/static/media/projects/deep/deep-results-02.jpg",
+          "title":"Softmax-Training experiment on the first split. (Right) Network accuracies, (Left) Network losses"
+        },
+        {
+          "url":"/static/media/projects/deep/deep-results-03.jpg",
+          "title":"FineTune-Training experiment on the first split. (Right) Network accuracies, (Left) Network losses"
+        },
+        {
+          "url":"/static/media/projects/deep/deep-results-04.jpg",
+          "title":"Comparison between RGB images, depth images and colorized depth images from Washington RGB-D dataset"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Different heuristics and random initialization methods applied to GSAT and WalkSAT algorithms",
+    "association": "Sapienza University of Rome",
+    "course": "Automated Reasoning",
+    "adviser": {
+      "title":"Prof. Paolo Liberatore",
+      "link":"http://www.dis.uniroma1.it/~liberato"
+    },
+    "date": "September 2016 – October 2016",
+    "extra": {
+      "abstract": "This project focuses on GSAT and WalkSAT algorithms and their extensions which are particularly used to solve the Boolean satisfiability problem. The goal of this project is to compare the performances of the cited algorithms with different heuristics. The ability to find the model and the algorithm run-time are the two main comparison criteria which have been used in this project. Another important aspect of the project is the random initializations of the algorithms which turns out to be one significant factor to avoid the local maxima. Different random initialization methods were discussed in this report altogether with their implementational details.",
+      "gitUrl":"https://github.com/Sina-Baharlou/GSAT-WalkSAT",
+      "gallery": [
+        {
+          "url":"/static/media/projects/gw-sat/gwsat-results-01.jpg",
+          "title":"Comparison of the random initialization methods"
+        },
+        {
+          "url":"/static/media/projects/gw-sat/gwsat-results-02.jpg",
+          "title":"UF20-91 dataset benchmark (20 variables, 91 clauses, 100 instances) Maximum number of iterations: 100, Maximum number of flips: 32"
+        }
+
+
+      ]
+    }
+
+  },
+  {
+    "title": "3D Pose Estimation of an RGB-D Camera",
+    "association": "Sapienza University of Rome",
+    "course": "Least Squares and SLAM",
+    "adviser": {
+      "title": "Prof. Giorgio Grisetti",
+      "link": "https://sites.google.com/dis.uniroma1.it/grisetti"
+    },
+    "date": "December 2015 – February 2016",
+    "extra": {
+      "abstract": "This is a brief report and summarization on the least squares technique for state estimation of a stationary non-linear system. The general definition of a system and the gauss-newton direct minimization algorithm will be reviewed. In addition to the definitions and formulations, a real-life example on how to use least squares to estimate the 3D pose of an RGBD camera will be discussed with the implementation details.",
+      "gitUrl":"https://github.com/Sina-Baharlou/Pose-Estimation-RGBD",
+      "gallery": [
+        {
+          "url":"/static/media/projects/slam/slam-demo-01.jpg",
+          "title":"3D Reconstructed scene using Kinect and SLAM technology"
+        },
+        {
+          "url":"/static/media/projects/slam/slam-results-01.jpg",
+          "title":"Extracted features and their correspondences"
+        },
+        {
+          "url":"/static/media/projects/slam/slam-results-02.jpg",
+          "title":"Final camera positions"
+        },
+        {
+          "url":"/static/media/projects/slam/slam-results-03.jpg",
+          "title":"Minimization error"
+        }
+      ]
+    }
+
+  },
+  {
+    "title": "3D Pose Estimation of a Planar Robot Using Extended Kalman Filter",
+    "association": "Sapienza University of Rome",
+    "course": "Learning in Autonomous Systems",
+    "adviser": {
+      "title": "Prof. Giorgio Grisetti",
+      "link": "https://sites.google.com/dis.uniroma1.it/grisetti"
+    },
+    "date": "June 2015 – September 2015",
+    "extra": {
+      "abstract": "This project focuses on the implementation and designing a filter (Extended kalman filter) for estimating a 2D planar robot position and orientation. In this project the traversed path assumed to be 3-Dimensional, and the information used to estimate the robot position and orientation is the data from Odometry and IMU devices.",
+      "gitUrl":"https://github.com/Sina-Baharlou/Pose-Estimation-EKF",
+      "gallery": [
+        {
+          "url":"/static/media/projects/ekf/ekf-imu-data.jpg",
+          "title":"A sample data from IMU linear acceleration"
+        },
+        {
+          "url":"/static/media/projects/ekf/ekf-odometry.jpg",
+          "title":"The odometric estimation of the provided data"
+        },
+        {
+          "url":"/static/media/projects/ekf/ekf-results-01.jpg",
+          "title":"Comparison between the Odometric path estimation and EKF estimation"
+        },
+        {
+          "url":"/static/media/projects/ekf/ekf-results-02.jpg",
+          "title":"3D estimated path results"
+        }
+      ]
+    }
+
+  },
+  {
+    "title": "Face Recognition using Independent Component Analysis",
+    "association": "Sapienza University of Rome",
+    "course": "Neural Networks",
+    "adviser": {
+      "title": "Prof. Aurelio Uncini",
+      "link": "http://www.uncini.com"
+    },
+    "date": "November 2014 – March 2015",
+    "extra":{
+      "abstract":"This project is a comparative study of the most popular appearance-based face recognition projection methods (PCA and ICA). The three architectures discussed by 'Face Recognition by Independent Component Analysis' are implemented in this project, and built-in functions of artificial neural network, and K nearest-neighbors are used as the classification methods. Also two popular databases for face recognition (Yale and ORL) are used here in order to test the accuracy of the implemented methods.",
+      "gitUrl":"https://github.com/Sina-Baharlou/Face-Recognition",
+      "gallery":[
+        {
+          "url":"/static/media/projects/face/face-overview.jpg",
+          "title":"The main flowchart of the project"
+        },
+        {
+          "url":"/static/media/projects/face/face-eigen-02.jpg",
+          "title":"The results from Yale database. (left) The first twenty-five eigenfaces. (center) The first twenty-five statistically independent basis images from first architecture. (right) The first twenty-five statistically independent basis images from second architecture"
+        },
+        {
+          "url":"/static/media/projects/face/face-results-01.jpg",
+          "title":"Recognition rate with Yale database."
+        }
+      ]
+    }
+  },
+  {
+    "title": "CoreGL Framework",
+    "association": "Sapienza University of Rome",
+    "course": "Interactive Graphics",
+    "adviser": {
+      "title":"Prof. Marco Schaerf",
+      "link":"http://www.dis.uniroma1.it/~schaerf/"
+    },
+    "date": "Jul 2014 – Feb 2015",
+    "extra":{
+      "abstract":"This project focuses on the implementation of a minimalistic and simple computer graphics framework. Several methods are studied and applied for this project; from the simple rendering principles to more complex shading techniques like screen space ambient occlusion. This framework tries to bring on a simple interface to load and render 3D objects and use shading techniques like multiple light rendering, Shadow mapping and ambient occlusion. This project is developed in Linux operating system and the low level application program interface 'OpenGL' is used to interact with the GPU in order to achieve hardware accelerated rendering. The developed software consists of two main parts: The framework itself and a demonstration application based on the framework which uses physics library, achieving more realistic interaction of graphical objects.",
+      "gallery":[
+        {
+          "url":"/static/media/projects/coregl/coregl-demo-01.jpg",
+          "title":"a demonstration scene from CoreGL"
+        },
+        {
+          "url":"/static/media/projects/coregl/coregl-demo-02.jpg",
+          "title":"a 3D scene created from a table, a chessboard and an skybox using CoreGL"
+        },
+        {
+          "url":"/static/media/projects/coregl/coregl-demo-03.jpg",
+          "title":"The 3D model character from ‘Dishonored’ rendered using CoreGL"
+        }
+      ]
+    }
+
+  },
+  {
+    "title": "Short Term Outages (Geographical Characterization of Failures)",
+    "association": "Sapienza University of Rome",
+    "course": "Network Infrastructures",
+    "adviser": {
+      "title":"Prof. Francesca Cuomo",
+      "link":"http://francescacuomo.site.uniroma1.it/"
+    },
+    "date": "September 2014 – December 2014",
+    "extra":{
+      "abstract":"The purpose of this research project was to determine if there is any correlation between number of outages and the area they occur  (urban and rural areas), and to check if the failures occur more frequently during the day or during the night.",
+      "gallery":[
+        {
+          "url":"/static/media/projects/ni/ni-results-01.jpg",
+          "title":"Results (Number of Outages, 16k threshold)"
+        },
+        {
+          "url":"/static/media/projects/ni/ni-results-02.jpg",
+          "title":"Results (Number of Outages per 1k inhabitants, 16k threshold)"
+        },
+        {
+          "url":"/static/media/projects/ni/ni-results-03.jpg",
+          "title":"Number of Outages Heat-map"
+        }
+      ]
+    }
+
+  },
+  {
+    "title": "Automatic License Plate Recognition software for Linux and Android operating systems",
+    "association": "Islamic Azad University",
+    "course": "Final Project",
+    "adviser": "Prof. Shahrdad Ezzatdoust",
+    "date": "October 2013",
+    "extra":{
+      "abstract":"This project proposes a novel approach of recognizing the Persian license plates. The work is divided into two major parts: the localization algorithm and the Optical Character Recognition part. This project brought novelties in each part and enhanced the performances of both. For the goal of demonstration and to show the capability of this method, a Linux implementation together with an Android one is provided.",
+      "gallery":[
+        {
+          "url":"/static/media/projects/alpr/alpr-demo-01.jpg",
+          "title":"Demonstration of the provided android application"
+        },
+        {
+          "url":"/static/media/projects/alpr/alpr-demo-02.jpg",
+          "title":"Demonstration of the provided android application"
+        }
+      ]
+    }
+
+  }
+]

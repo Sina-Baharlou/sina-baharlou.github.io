@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Depth Colorization using Deep Convolutional Neural Networks",
+    "association": "Sapienza University of Rome",
+    "course": "Master Thesis",
+    "adviser":"Prof. Barbara Caputo",
+    "date": "January 2017",
+    "extra": {
+      "abstract": "Recent works in RGB-D object recognition use pre-trained Convolutional Neural Networks to extract features from depth images and use them in the RGB-D classification task to increase the overall accuracy. For this purpose, they proposed several hand-designed methods for colorizing the depth images to make them compatible to be fed into a Convolutional Neural Network. The goal of this master thesis is to design a fully trainable system with the ability to learn how to colorize and normalize the depth information. To do this, we propose a pipeline consisting of five steps. Preprocessing the raw images using a novel method which employes an edge-preserving algorithm called HQX, extracting the image patches with high entropy for unsupervised feature learning approaches, training an auto-encoder to learn effective filter maps for the first convolutional layer of the colorization network, training the colorization network, and colorizing the depth images using the proposed architecture. Later on, it is conveyed that that our method outperforms the state-of-the-art colorization algorithm and improves the recognition accuracy.",
+      "preUrl": "https://app.emaze.com/@ATOTCRIW/depth-colorization#1"
+    }
+  },
+  {
+    "title": "Long-Term Human Robot Interaction with Young Users",
+    "association": "Sapienza University of Rome",
+    "course": "Seminars in Artificial Intelligence and Robotics ",
+    "adviser": {
+      "title": "Prof. Daniele Nardi",
+      "link": "http://www.dis.uniroma1.it/~nardi/"
+    },
+    "visiting": {
+      "title": "Prof. Marc Hanheide",
+      "link": "https://www.hanheide.net/"
+    },
+    "date": "May 2016",
+    "extra": {
+      "abstract": "This is a brief report and summarization on the paper called Long-Term Human-Robot Interaction with Young Users. The paper mainly focuses on a particular type of robots called Artificial Companion Robots which are able to help the patients in different ways. however, in order to be realistic and natural, they need to set up long-term interactions with users. Being able to interact with users for a long period, is another important part, on which the paper had focused . In this report the importance of artificial companion agents has been discussed, altogether with the proposed methods of establishing long-term interaction and implementational details. The reader might refer to the original paper [1] for better understanding and complete explanations.",
+      "preUrl": "https://app.emaze.com/@ACTRITLL/long-term-human"
+    }
+  },
+  {
+    "title": "A Neural Probabilistic Language Model",
+    "association": "Sapienza University of Rome",
+    "course": "Seminars in Artificial Intelligence and Robotics",
+    "adviser": {
+      "title": "Prof. Daniele Nardi",
+      "link": "http://www.dis.uniroma1.it/~nardi/"
+    },
+    "visiting": {
+      "title": "Prof. David Israel",
+      "link": "http://www.ai.sri.com/~israel/"
+    },
+    "date": "November 2015",
+    "extra": {
+      "abstract": "This is a brief report and summarization on the paper called “A Neural Probabilistic Language Model” written by Yoshua Bengio. The paper mainly focuses on the novel approach of modeling the language, besides, the proposed methods for making it practical. A 'Distributed Representation' for the words were proposed in the paper, together with a new approach in using probabilistic neural network to learn the continuous joint distribution of the sequence of the words. Also some previous state of the art methods were mentioned in the paper and they were compared to the proposed method. The reader might refer to the original paper for better understanding and complete explanations.",
+      "preUrl": "https://app.emaze.com/@AIZWFZOF/a-neural-probabilistic-language-model#1"
+    }
+
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "key": "Main Programming Languages",
+    "value": "C++, Python, Java (Android), Matlab"
+  },
+  {
+    "key": "Machine Learning Libraries",
+    "value": "Caffe, Tensorflow, PyTorch, Keras, DIGITS, OpenCV, SciKit-Learn, SciPy, NumPy"
+  },
+  {
+    "key": "Artificial Intelligence Tools",
+    "value": "Prolog, Protégé-OWL, ASP, PDDL"
+  },
+  {
+    "key": "Computer Graphics Skills",
+    "value": "OpenGL, WebGL, GLSL, Ray tracing, Path tracing"
+  },
+  {
+    "key": "Robotics Libraries",
+    "value": "Matlab Robotics Toolbox, ROS, V-REP"
+  },
+  {
+    "key": "Other Programming Languages",
+    "value": "C, C#, Javascript, Basic, Visual Basic"
+  },
+  {
+    "key": "Web developing",
+    "value": "VueJs, Flask, PHP, Ajax, JQuery, Bootstrap, HTML"
+  },
+  {
+    "key":"Databases",
+    "value":"MySQL, SQLite"
+  },
+  {
+    "key": "Micro Controllers",
+    "value": "8051, Pic16f84a, Pic16f877a, Atmega8, Atmega16"
+  },
+  {
+    "key": "Other Applications",
+    "value": "LATEX, Microsoft Word, Blender, Inkscape, 3Ds Max"
+  }
+]

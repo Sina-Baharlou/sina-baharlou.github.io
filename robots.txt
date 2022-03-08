@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /static/fonts/
+Disallow: /static/webfonts/
+
+Sitemap: https://www.sinabaharlou.com/sitemap.xml
