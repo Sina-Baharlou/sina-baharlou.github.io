@@ -5,14 +5,14 @@
     "location": "36th AAAI Conference on Artificial Intelligence",
     "authors": "Sahand Sharifzadeh*, Sina Moayed Baharlou*, Martin Schmitt, Hinrich Schütze, Volker Tresp",
     "doi": "Not assigned",
-    "date": "December 2021",
+    "date": "June 2022",
     "thumbnail": "/static/media/logos/aaai.png",
     "thumbTitle": "published by",
     "equal":true,
     "extra": {
       "abstract": "Training scene graph classification models requires a large amount of annotated image data. Meanwhile, scene graphs represent relational knowledge that can be modeled from symbolic data such as in texts or knowledge graphs. While image annotation demands extensive labor, collecting textual descriptions of natural scenes requires less effort. In this work, we investigate whether textual scene descriptions can substitute for annotated image data. To this end, we employ a scene graph classification framework that is trained not only from annotated images but also from symbolic data. In our architecture, the symbolic entities are first mapped to their correspondent image-grounded representations and then fed into the relational reasoning pipeline. Even though a structured form of knowledge, such as the form in knowledge graphs is not always available, we can generate it from unstructured texts using a transformer-based language model. We show that by fine-tuning the classification pipeline with the extracted knowledge from texts, we can achieve ~8x more accurate results in scene graph classification, ~3x in object classification, and ~1.5x in predicate classification, compared to the supervised baselines with only 1% of the annotated images.",
-      "pubUrl": "https://arxiv.org/abs/2102.04760",
-      "bibtexUrl": "/static/content/bibtex/sharifzadeh2021improving.bib"
+      "pubUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/20116",
+      "bibtexUrl": "/static/content/bibtex/Improving-Scene-Graph-Classification-by-Exploiting-Knowledge.bib"
     }
   },
   {
@@ -27,7 +27,8 @@
     "extra": {
       "abstract": "A major challenge in scene graph classification is that the appearance of objects and relations can be significantly different from one image to another. Previous works have addressed this by relational reasoning over all objects in an image or incorporating prior knowledge into classification. Unlike previous works, we do not consider separate models for perception and prior knowledge. Instead, we take a multi-task learning approach, where we implement the classification as an attention layer. This allows for the prior knowledge to emerge and propagate within the perception model. By enforcing the model also to represent the prior, we achieve a strong inductive bias. We show that our model can accurately generate commonsense knowledge and that the iterative injection of this knowledge to scene representations leads to significantly higher classification performance. Additionally, our model can be fine-tuned on external knowledge given as triples. When combined with self-supervised learning and with 1% of annotated images only, this gives more than 3% improvement in object classification, 26% in scene graph classification, and 36% in predicate prediction accuracy.",
       "pubUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/16636",
-      "bibtexUrl": "/static/content/bibtex/classification_by_attention.bib"
+      "bibtexUrl": "/static/content/bibtex/classification_by_attention.bib",
+      "gitUrl": "https://github.com/sharifza/schemata"
     }
   },
   {
