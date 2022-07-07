@@ -4,7 +4,10 @@
     "type": "Conference",
     "location": "36th AAAI Conference on Artificial Intelligence",
     "authors": "Sahand Sharifzadeh*, Sina Moayed Baharlou*, Martin Schmitt, Hinrich Schütze, Volker Tresp",
-    "doi": "Not assigned",
+    "doi": {
+      "title":"10.1609/aaai.v36i2.20116",
+      "link":"https://doi.org/10.1609/aaai.v36i2.20116"
+    },
     "date": "June 2022",
     "thumbnail": "/static/media/logos/aaai.png",
     "thumbTitle": "published by",
@@ -54,7 +57,7 @@
     "title": "Transfer learning approach for classification and noise reduction on noisy web data",
     "type": "Journal",
     "location": "Expert Systems with Applications",
-    "authors": "Javad Abbasi Aghamaleki and Sina Moayed Baharlou.",
+    "authors": "Javad Abbasi Aghamaleki and Sina Moayed Baharlou",
     "doi": {
       "title":"10.1016/j.eswa.2018.03.042",
       "link":"https://doi.org/10.1016/j.eswa.2018.03.042"
