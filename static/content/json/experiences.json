@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Visiting Researcher",
+    "title": "Ludwig Maximilian University of Munich",
+    "location": "Tehran, Iran",
+    "date": "July 2019 — December 2021",
+    "desc": "I collaborated on several projects with a research team from the Ludwig Maximilians University of Munich under the supervision of Prof. Volker Tresp. During this time, I closely worked with Dr. Sahand Sharifzadeh on the topics of Scene Graph Classification and Visual Relation Detection. The main focus of our research was to model prior knowledge and utilize it in scene understanding.\nWe investigated various sources of prior knowledge including depth map image pairs, raw textual data, and curated knowledge graphs. During these projects we also explored some relevant topics including Knowledge Graph Embedding models and Language Models for Link Prediction. The outcome of our works is three scientific papers published in International Conference on Pattern Recognition and AAAI Conference on Artificial Intelligence.",
+    "thumbnail": "/static/media/logos/lmu.png"
+  },
+  {
+    "role": "Research Experience on Transfer Learning and Vehicle Recognition",
+    "title": "Independent Research",
+    "location": "Tehran, Iran",
+    "date": "June 2017 — March 2018",
+    "desc": "I conducted a research project with a comparative approach aimed to determine the robustness of deep neural networks trained on a noisy dataset using the transfer learning technique. The proposed method was applied in a vehicle recognition scenario and resulted in a publication in the journal of Expert Systems with Applications. This project was done in collaboration with Prof. Abbasi Aghamaleki.",
+    "thumbnail": "/static/media/logos/vr.png"
+  },
+  {
+    "role": "Research Collaboration on Deep Depth Colorization",
+    "title": "Sapienza University of Rome",
+    "location": "Rome, Italy",
+    "date": "November 2016 — March 2017",
+    "desc": "I contributed to the early research on 'Depth Colorization' where we proposed a deep learning approach of normalizing and mapping the depth images into three channels in order to improve the recognition accuracy of RGB-D images (Nov. 2016 - Mar. 2017). I Also assisted in the preparation phase of a synthetic depth dataset called 'VANDAL' which is used to train ConvNets (Feb. 2016 - Apr. 2016).",
+    "thumbnail": "/static/media/logos/sapienza.png"
+  }
+]

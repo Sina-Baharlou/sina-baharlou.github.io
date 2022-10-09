@@ -1,11 +1,11 @@
 [
   {
     "key": "Main Programming Languages",
-    "value": "C++, Python, Java (Android), Matlab"
+    "value": "C, C++, Python, Java (Android), Matlab"
   },
   {
-    "key": "Machine Learning Libraries",
-    "value": "Caffe, Tensorflow, PyTorch, Keras, DIGITS, OpenCV, SciKit-Learn, SciPy, NumPy"
+    "key": "Machine Learning Frameworks/Libraries",
+    "value": "PyTorch, Tensorflow, Keras, Caffe,  SciKit-Learn, SciPy, NumPy, OpenCV, NVIDIA Digits, PyKEEN, TensorBoard, Optuna, HuggingFace"
   },
   {
     "key": "Artificial Intelligence Tools",
