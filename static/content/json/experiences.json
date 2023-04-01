@@ -1,5 +1,13 @@
 [
   {
+    "role": "Research Assistant",
+    "title": "Boston University",
+    "location": "Massachusetts, USA",
+    "date": "January 2023 — Present",
+    "desc": "I am working on utilizing Machine Learning for Photonics applications under the supervision of Prof. Ndao.",
+    "thumbnail": "/static/media/logos/bu.png"
+  },
+  {
     "role": "Visiting Researcher",
     "title": "Ludwig Maximilian University of Munich",
     "location": "Tehran, Iran",
