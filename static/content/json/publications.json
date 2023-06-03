@@ -1,5 +1,24 @@
 [
   {
+    "title": "MemeGraphs: Linking Memes to Knowledge Graphs",
+    "type": "Conference",
+    "location": "The 17th International Conference on Document Analysis and Recognition",
+    "authors": "Vasiliki Kougia, Simon Fetzel, Thomas Kirchmair, Erion Çano, Sina Moayed Baharlou, Sahand Sharifzadeh, and Benjamin Roth",
+    "doi": {
+      "title":"10.48550/arXiv.2305.18391",
+      "link":"https://doi.org/10.48550/arXiv.2305.18391"
+    },
+    "date": "May 2023",
+    "thumbnail": "/static/media/logos/springer.png",
+    "thumbTitle": "published by",
+    "equal":false,
+    "extra": {
+      "abstract": "Memes are a popular form of communicating trends and ideas in social media and on the internet in general, combining the modalities of images and text. They can express humor and sarcasm but can also have offensive content. Analyzing and classifying memes automatically is challenging since their interpretation relies on the understanding of visual elements, language, and background knowledge. Thus, it is important to meaningfully represent these sources and the interaction between them in order to classify a meme as a whole. In this work, we propose to use scene graphs, that express images in terms of objects and their visual relations, and knowledge graphs as structured representations for meme classification with a Transformer-based architecture. We compare our approach with ImgBERT, a multimodal model that uses only learned (instead of structured) representations of the meme, and observe consistent improvements. We further provide a dataset with human graph annotations that we compare to automatically generated graphs and entity linking. Analysis shows that automatic methods link more entities than human annotators and that automatically generated graphs are better suited for hatefulness classification in memes.",
+      "pubUrl": "https://arxiv.org/abs/2305.18391",
+      "bibtexUrl": "/static/content/bibtex/memegraphs.bib"
+    }
+  },
+  {
     "title": "Improving Scene Graph Classification by Exploiting Knowledge from Texts",
     "type": "Conference",
     "location": "36th AAAI Conference on Artificial Intelligence",
