@@ -1,5 +1,15 @@
 [
   {
+    "title": "Ph.D. in Electrical and Computer Engineering",
+    "date": "January 2023",
+    "location": "Boston University, Massachusetts",
+    "items": {
+      "major": "Machine Learning for Photonics",
+      "adviser": "Prof. Abdoulaye Ndao"
+    },
+    "thumbnail": "/static/media/logos/bu.png"
+  },
+  {
     "title": "M.Sc. in Artificial Intelligence and Robotics",
     "date": "September 2014 — February 2017",
     "location": "Sapienza University of Rome, Italy",
