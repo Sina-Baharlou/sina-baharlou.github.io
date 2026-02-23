@@ -1,5 +1,43 @@
 [
   {
+    "title": "Single-Shot Wavefront Aberration Correction using a Hybrid Neural Network Approach",
+    "type": "Conference",
+    "location": "CLEO 2025",
+    "authors": "Sina Moaved Baharlou, Muhammad Waleed Khalid, Alexander V Sergienko, Abdoulaye Ndao",
+    "doi": {
+      "title":"10.1364/CLEO_SI.2025.SS118_7",
+      "link":"https://doi.org/10.1364/CLEO_SI.2025.SS118_7"
+    },
+    "date": "May 2025",
+    "thumbnail": "/static/media/logos/cleo.png",
+    "thumbTitle": "published by",
+    "equal":false,
+    "extra": {
+      "abstract": "We present a machine learning-based approach for wavefront aberration correction using a single intensity image. Our approach utilizes a trained bias, implemented as a single optical element, to effectively resolve ambiguity issues.",
+      "pubUrl": "https://opg.optica.org/viewmedia.cfm?r=1&uri=CLEO_SI-2025-SS118_7&seq=0",
+      "bibtexUrl": "/static/content/bibtex/baharlou_cleo.bib"
+    }
+  },
+  {
+    "title": "Integrating deep convolutional surrogate solvers and particle swarm optimization for efficient inverse design of plasmonic patch nanoantennas",
+    "type": "Journal",
+    "location": "Nanophotonics",
+    "authors": "Saeed Hemayat*, Sina Moayed Baharlou*, Alexander Sergienko and Abdoulaye Ndao",
+    "doi": {
+      "title":"10.1515/nanoph-2024-0195",
+      "link":"https://doi.org/10.1515/nanoph-2024-0195"
+    },
+    "date": "Aug 2024",
+    "thumbnail": "/static/media/logos/wiley.png",
+    "thumbTitle": "published by",
+    "equal":true,
+    "extra": {
+      "abstract": "Plasmonic nanoantennas with suitable far-field characteristics are of huge interest for utilization in optical wireless links, inter-/intrachip communications, LiDARs, and photonic integrated circuits due to their exceptional modal confinement. Despite its success in shaping robust antenna design theories in radio frequency and millimeter-wave regimes, conventional transmission line theory finds its validity diminished in the optical frequencies, leading to a noticeable void in a generalized theory for antenna design in the optical domain. By utilizing neural networks, and through a one-time training of the network, one can transform the plasmonic nanoantennas design into an automated, data-driven task. In this work, we have developed a multi-head deep convolutional neural network serving as an efficient inverse-design framework for plasmonic patch nanoantennas. Our framework is designed with the main goal of determining the optimal geometries of nanoantennas to achieve the desired (inquired by the designer) S 11 and radiation pattern simultaneously. The proposed approach preserves the one-to-many mappings, enabling us to generate diverse designs. In addition, apart from the primary fabrication limitations that were considered while generating the dataset, further design and fabrication constraints can also be applied after the training process. In addition to possessing an exceptionally rapid surrogate solver capable of predicting S11 and radiation patterns throughout the entire design frequency spectrum, we are introducing what we believe to be the pioneering inverse design network. This network enables the creation of efficient plasmonic antennas while concurrently accommodating customizable queries for both S 11 and radiation patterns, achieving remarkable accuracy within a single network framework. Our framework is capable of designing a wide range of devices, including single band, dual band, and broadband antennas, with directivities and radiation efficiencies reaching 11.07 dBi and 75 %, respectively, for a single patch. The proposed approach has been developed as a transformative shift in the inverse design of photonics components, with its impact extending beyond antenna design, opening a new paradigm toward real-time design of application-specific nanophotonic devices.",
+      "pubUrl": "https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0195/html",
+      "bibtexUrl": "https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0195/machineReadableCitation/BibTeX"
+    }
+  },
+  {
     "title": "GPU-Accelerated and Memory-Independent Layout Generation for Arbitrarily Large-Scale Metadevices",
     "type": "Journal",
     "location": "Advanced Theory and Simulations",
